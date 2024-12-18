@@ -128,8 +128,6 @@
 
 В качестве сервера был использован json-server, который устанавливается и запускается из корневой директории проекта следующим образом:
 
-```npm install json-server```
+`npm install json-server`
 
-```json-server --watch data.json --port 8001```
-
-
+`json-server --watch data.json --port 8001`
